@@ -1,0 +1,28 @@
+correo electrónico
+	nancy4to@gmail.com
+Nombre del repositorio	
+	NanFarRod 
+	ConcentradoTotal
+	MiRepositorioNancyFarfan
+Dirección electrónica de mi Repositorio
+	https://github.com/NanFarRod/MiPrimerRepositorio.git
+Creación del Repositorio
+	echo "# MiPrimerRepositorio" >> README.md
+	git init
+	git add README.md
+	git commit -m "first commit"
+	git branch -M main
+	git remote add origin https://github.com/NanFarRod/MiPrimerRepositorio.git
+	git push -u origin main
+	git remote add origin https://github.com/NanFarRod/MiPrimerRepositorio.git
+	git branch -M main
+	git push -u origin main
+Actualización del Repositorio
+	git add .
+	git commit -m "first commit"
+	git push -u origin main
+Identificación del repositorio
+	git config --global user.email "nancy4to@gmail.com"
+  	git config --global user.name "NanFarRod"
+
+
